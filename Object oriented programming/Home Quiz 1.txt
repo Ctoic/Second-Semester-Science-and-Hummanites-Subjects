@@ -1,0 +1,17 @@
+Write a program using overloaded functions such that;
+
+Task 1:
+int difference(int a, int b){
+	//return the difference between two number (difference must be positive)
+}
+int difference(string a, string b){
+	//return the difference of characters between the strings
+}
+
+
+Task 2:
+Write a recursive function to convert a binary number input into decimal number
+int convert(int a){
+	//a will be in binary (although you may keep its type as int)
+	//recursively convert it to decimal and return the decimal number
+}
